@@ -20,19 +20,33 @@ Project Structure
 
 .
 ├── app.py                 # Main script to orchestrate the system
+
 ├── config.py              # Configuration file for paths and settings
+
 ├── preprocessing/         # Data preprocessing module
+
 │   └── preprocessor.py    # Data cleaning and loading
+
 ├── models/                # Model training and management
+
 │   └── train_model.py     # Train and save the ML model
+
 ├── detection/             # Anomaly detection logic
+
 │   └── anomaly_detection.py # Fraud detection module
+
 ├── utils/                 # Utility functions
+
 │   └── logger.py          # Logging setup and usage
+
 ├── data/                  # Directory for raw and processed data
+
 ├── models/                # Directory for storing trained models
+
 ├── logs/                  # Directory for logs
+
 └── README.md              # Project documentation
+
 Installation
 
 Prerequisites
