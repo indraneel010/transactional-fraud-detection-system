@@ -46,7 +46,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/your-username/transactional-fraud-detection.git
+git clone https://github.com/indraneel010/transactional-fraud-detection.git
 cd transactional-fraud-detection
 
 Install required dependencies:
