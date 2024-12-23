@@ -33,7 +33,6 @@ Project Structure
 ├── models/                # Directory for storing trained models
 ├── logs/                  # Directory for logs
 └── README.md              # Project documentation
-
 Installation
 
 Prerequisites
