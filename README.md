@@ -143,8 +143,11 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 For questions or contributions, please contact:
+
 -Name: Indraneel B
+
 -Email: indraneel2201@gmail.com
+
 -GitHub: https://github.com/your-indraneel010
 
 
